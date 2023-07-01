@@ -61,14 +61,14 @@ https://drive.google.com/file/d/1o1a4ZljT3NRyV04s_5Ucxv5bJH_YmCC0/view?usp=drive
 
 - Runs in dev mode with HMR Hot-reloading.
 - Both JS and ExtendScript folders re-build on changes
-- Viewable in browser via localhost:3000/panel/
-  - (e.g. http://localhost:3000/main/, http://localhost:3000/settings/, etc. (see [Panel Structure](#cep-panel-structure) to set up multiple panels)))
+- Viewable in browser via localhost:3000/main/
+  
 
 `npm run serve`
 
 - Serve files after running `yarn build`
-- Viewable in browser via localhost:5000/panel/
-  - (e.g. http://localhost:5000/main/, http://localhost:5000/settings/, etc. (see [Panel Structure](#cep-panel-structure) to set up multiple panels)))
+- Viewable in browser via localhost:5000/main/
+  
 
 `npn run zxp`
 
