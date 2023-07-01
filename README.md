@@ -90,5 +90,3 @@ ExtendScript code found in `src/jsx/main.ts`
 ---
 
 
-
-```
