@@ -16,6 +16,10 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 -Ability to save and load palettes as a preset
 -Other features such as hue and saturation adjustments for Single color Mode
 
+## Plugin Walkthrough/Demonstration
+
+https://drive.google.com/file/d/1o1a4ZljT3NRyV04s_5Ucxv5bJH_YmCC0/view?usp=drive_link
+
 ### Dev Requirements
 
 - [Node.js](https://nodejs.org/en) 16 or later
