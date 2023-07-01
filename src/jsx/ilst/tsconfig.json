@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "noLib": true,
+    "strict": true,
+    "ignoreDeprecations": "5.0",
+    "types": [
+      "../global",
+      "../../../node_modules/types-for-adobe/Illustrator/2015.3",
+      "../../../node_modules/types-for-adobe/shared/PlugPlugExternalObject"
+    ]
+  },
+  "include": ["./**/*"]
+}
