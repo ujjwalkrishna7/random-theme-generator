@@ -4,15 +4,13 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 
 ## Features
 
-- Color Palette generation based on various modes:
-- Single color
-- Purely Random
-- Based on Themes
+- Color Palette generation based on various modes
+- Single color Palette Generation
+- Purely Random Palette Generation
+- Theme Based Palette Generation
 - Image file based Palette Generation
-
 - Fill all selected objects with a selected palette color and add it to swatches
-- Bring over the entire generated palette as a group
-
+- Bring over the entire generated palette as a group and add all palette colors to swatches
 - Ability to save and load palettes as a preset
 - Other features such as hue and saturation adjustments for Single color Mode
 
@@ -31,7 +29,7 @@ https://drive.google.com/file/d/1o1a4ZljT3NRyV04s_5Ucxv5bJH_YmCC0/view?usp=drive
 
 ---
 
-## Usage
+## Usage Instructions
 
 - Ensure that you are using Adobe Illustrator CC 2020 or above.
 - Download ZXP/UXP Installer provided by AEScripts : [https://aescripts.com/learn/zxp-installer/]
@@ -90,5 +88,3 @@ ExtendScript code found in `src/jsx/main.ts`
 ---
 
 
-
-```
