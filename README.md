@@ -13,6 +13,7 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 - Bring over the entire generated palette as a group and add all palette colors to swatches
 - Ability to save and load palettes as a preset
 - Other features such as hue and saturation adjustments for Single color Mode
+- Fully build using React and Typescript with the help of bolt-cep.
 
 ## Plugin Walkthrough/Demonstration
 
