@@ -4,15 +4,13 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 
 ## Features
 
-- Color Palette generation based on various modes:
--- Single color
-- Purely Random
-- Based on Themes
+- Color Palette generation based on various modes
+- Single color Palette Generation
+- Purely Random Palette Generation
+- Theme Based Palette Generation
 - Image file based Palette Generation
-
 - Fill all selected objects with a selected palette color and add it to swatches
-- Bring over the entire generated palette as a group
-
+- Bring over the entire generated palette as a group and add all palette colors to swatches
 - Ability to save and load palettes as a preset
 - Other features such as hue and saturation adjustments for Single color Mode
 
