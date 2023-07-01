@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1o1a4ZljT3NRyV04s_5Ucxv5bJH_YmCC0/view?usp=drive
 
 ---
 
-## Usage
+## Usage Instructions
 
 - Ensure that you are using Adobe Illustrator CC 2020 or above.
 - Download ZXP/UXP Installer provided by AEScripts : [https://aescripts.com/learn/zxp-installer/]
