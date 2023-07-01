@@ -1,6 +1,6 @@
 <img src="src/js/assets/paletizer.png" alt="Palettizer" title="Palettizer (Illustrator Plugin)" width="400" />
 
-An Illustrator plugin which can generate random aesthetic color palettes in multiple modes which can integrate directly onto illustrator compositions.
+An Illustrator plugin which can generate random aesthetic color palettes in multiple modes which can integrate directly into illustrator compositions.
 
 ## Features
 
@@ -13,8 +13,8 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 - Fill all selected objects with a selected palette color and add it to swatches
 - Bring over the entire generated palette as a group
 
--Ability to save and load palettes as a preset
--Other features such as hue and saturation adjustments for Single color Mode
+- Ability to save and load palettes as a preset
+- Other features such as hue and saturation adjustments for Single color Mode
 
 ### Dev Requirements
 
@@ -29,10 +29,10 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 
 ## Usage
 
--Ensure that you are using Adobe Illustrator CC 2020 or above.
--Download ZXP/UXP Installer provided by AEScripts : [https://aescripts.com/learn/zxp-installer/]
--Now install the .zxp file from dist/zxp/ , using the ZXP Installer
--Now open Illustrator and go to Window —> Extension —> Random Theme Generator v1.0
+- Ensure that you are using Adobe Illustrator CC 2020 or above.
+- Download ZXP/UXP Installer provided by AEScripts : [https://aescripts.com/learn/zxp-installer/]
+- Now install the .zxp file from dist/zxp/ , using the ZXP Installer
+- Now open Illustrator and go to Window —> Extension —> Random Theme Generator v1.0
 
 ## Quick Start Guide for Developers
 
@@ -77,7 +77,7 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 
 ---
 
-## Config
+## Config and Code Structure
 
 Typescript or application code in `src/js/main/index.tsx`
 
@@ -85,30 +85,6 @@ ExtendScript code found in `src/jsx/main.ts`
 
 ---
 
-## Code Structure
 
-```
-src
- └─ js
-    ├─ main
-    │   ├─ index.html
-    |   └─ index.tsx
-    └─ settings
-        ├─ index.html
-        └─ index.tsx
-
-```
-
----
-
-## ExtendScript
-
-ExtendScript can be written in ES6 and will be compiled down to a single ES3 file for compatibility.
-
-JSON 2 is included by default, and any external JS libraries added with the include directive will be bundled as well:
-
-App-specific code is split into modules for type-safe development by the application's name as seen in the `index.ts`.
-
-```
 
 ```
