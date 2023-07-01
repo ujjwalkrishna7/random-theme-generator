@@ -5,7 +5,7 @@ An Illustrator plugin which can generate random aesthetic color palettes in mult
 ## Features
 
 - Color Palette generation based on various modes:
-- Single color
+-- Single color
 - Purely Random
 - Based on Themes
 - Image file based Palette Generation
