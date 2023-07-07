@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1o1a4ZljT3NRyV04s_5Ucxv5bJH_YmCC0/view?usp=drive
 
 `npm run serve`
 
-- Serve files after running `yarn build`
+- Serve files after running `npm build`
 - Viewable in browser via localhost:5000/main/
   
 
